@@ -3,14 +3,11 @@ swing-jdbc-crud
 
 Aplicativo desktop, desenvolvido utilizando tecnologias que compõe o core da linguagem Java: o framework Swing e a API JDBC.
 
-teste
-
-
 A aplicação utiliza o HSQLDB (HyperSQL DataBase), um banco de dados relacional escrito em Java, adequado para projetos com propósitos de estudos.
 
 O objetivo dessa aplicação é servir como conteúdo complementar para o estudo da linguagem Java e suas APIS, além de colocar em prática a modelagem de componentes através da Orientação de Objetos.
 
-Detalhes da implementação
+Detalhes da implementação/TESTE:
 -------
 Tecnologias utilizadas na implementação:
 * Swing: utilizamos o framework Swing para construção das interfaces e componentes gráficos da aplicação (camada cliente);
