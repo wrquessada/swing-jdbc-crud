@@ -7,7 +7,7 @@ A aplicação utiliza o HSQLDB (HyperSQL DataBase), um banco de dados relacional
 
 O objetivo dessa aplicação é servir como conteúdo complementar para o estudo da linguagem Java e suas APIS, além de colocar em prática a modelagem de componentes através da Orientação de Objetos.
 
-Detalhes da implementação/TESTE/teste:
+Detalhes da implementação/TESTE/teste/teste:
 -------
 Tecnologias utilizadas na implementação:
 * Swing: utilizamos o framework Swing para construção das interfaces e componentes gráficos da aplicação (camada cliente);
